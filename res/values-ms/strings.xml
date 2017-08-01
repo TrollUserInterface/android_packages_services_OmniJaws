@@ -30,4 +30,5 @@
   <string name="settings_title">Tetapan</string>
   <string name="auto_update_title">Pengemaskinian automatik</string>
   <string name="update">Kemas kini</string>
+  <string name="enable_title">Membolehkan</string>
 </resources>

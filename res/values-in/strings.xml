@@ -27,7 +27,7 @@
   <string name="weather_custom_location_missing">Atur lokasi</string>
   <string name="weather_retrieve_location_dialog_title">Tidak dapat mengambil lokasi!</string>
   <string name="weather_retrieve_location_dialog_message">Jaringan geolocation tidak aktif.\n\natur lokasi atau aktifkan lokasi jaringan</string>
-  <string name="weather_retrieve_location_dialog_enable_button">Aktifkan</string>
+  <string name="weather_retrieve_location_dialog_enable_button">Hidup</string>
   <string name="settings_title">Pengaturan</string>
   <string name="auto_update_title">Pembaruan otomatis</string>
   <string name="unit_metric">Metrik (\u00b0C)</string>
@@ -45,6 +45,7 @@
   <string name="weather_icon_pack_playstore">Temukan paket ikon</string>
   <string name="service_disabled">Dimatikan</string>
   <string name="service_error">Kesalahan</string>
+  <string name="last_update_time">Terakhir diperbarui</string>
   <string name="omnijaws_service_unkown">Tidak ada data cuaca</string>
   <string name="omnijaws_service_error">Kesalahan memuat data cuaca</string>
   <string name="omnijaws_service_init">Menunggu data cuaca...</string>
@@ -52,5 +53,6 @@
   <string name="omnijaws_service_disabled">Layanan dimatikan</string>
   <string name="weather_widget">Cuaca</string>
   <string name="omnijaws_current_text">Sekarang</string>
+  <string name="show_background_title">Bayangan latar belakang</string>
   <string name="weather_config_title">Setelan layanan</string>
 </resources>
