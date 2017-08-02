@@ -17,16 +17,15 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Weather - Speed units -->
-  <!-- Weather - Weather codes -->
-  <string name="weather_26">Mendung</string>
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <string name="weather_31">Padam bersih</string>
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Forecast unavailable -->
+  <string name="settings_title">Налады</string>
+  <string name="update_interval_title">Інтэрвал абнаўлення</string>
+  <string name="weather_tile_title">Надвор\'е</string>
+  <string name="weather_icon_pack_title">Стыль значкоў</string>
+  <string name="service_disabled">Адключана</string>
+  <string name="service_error">Памылка</string>
+  <string name="omnijaws_service_unkown">Няма дадзеных пра надвор\'е</string>
+  <string name="omnijaws_service_error">Памылка загрузкі дадзеных аб надвор\'і</string>
+  <string name="omnijaws_service_disabled">Служба адключана</string>
+  <string name="weather_widget">Надвор\'е</string>
+  <string name="omnijaws_current_text">Цяпер</string>
 </resources>

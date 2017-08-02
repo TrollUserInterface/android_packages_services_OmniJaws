@@ -16,4 +16,32 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_title">بدست آورنده آب و هوا</string>
+  <string name="units_title">واحد</string>
+  <string name="weather_progress_title">تایید مکان</string>
+  <string name="weather_select_location">انتخاب مکان</string>
+  <string name="custom_location_title">مکان سفارشی</string>
+  <string name="weather_custom_location_dialog_title">مکان را وارد کنید</string>
+  <string name="weather_custom_location_title">موقعیت</string>
+  <string name="weather_custom_location_missing">تنظیم موقعیت سفارشی</string>
+  <string name="weather_retrieve_location_dialog_title">موقعیت مکانی قابل بازیابی نیست!</string>
+  <string name="weather_retrieve_location_dialog_message">موقعیت جغرافیایی شبکه غیر فعال است.\n\nیک مکان سفارشی را تنظیم کرده یا موقعیت شبکه را فعال کنید</string>
+  <string name="weather_retrieve_location_dialog_enable_button">فعال کردن</string>
+  <string name="auto_update_title">به روز رسانی خودکار</string>
+  <string name="unit_metric">متریک (u00b0C\)</string>
+  <string name="unit_imperial">عالی (u00b0F\)</string>
+  <string name="update">به روز رسانی</string>
+  <string name="enable_title">فعال کردن</string>
+  <string name="interval_1_hour">۱ ساعت</string>
+  <string name="interval_2_hour">۲ ساعت</string>
+  <string name="interval_4_hour">۴ ساعت</string>
+  <string name="interval_6_hour">۶ ساعت</string>
+  <string name="interval_12_hour">۱۲ ساعت</string>
+  <string name="weather_icon_pack_playstore">یافتن بسته های آیکون</string>
+  <string name="last_update_time">آخرین زمان به روز رسانی</string>
+  <string name="omnijaws_service_init">منتظر اطلاعات آب و هوا...</string>
+  <string name="omnijaws_service_progress">در حال به روز رسانی...</string>
+  <string name="show_background_title">سایه پس زمینه</string>
+  <string name="weather_config_title">تنظیمات سرویس</string>
+</resources>

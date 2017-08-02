@@ -16,17 +16,4 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Weather - Speed units -->
-  <!-- Weather - Weather codes -->
-  <string name="weather_26">Mendung</string>
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Night -->
-  <string name="weather_31">Padam bersih</string>
-  <!-- Night -->
-  <!-- Day -->
-  <!-- Forecast unavailable -->
-</resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
