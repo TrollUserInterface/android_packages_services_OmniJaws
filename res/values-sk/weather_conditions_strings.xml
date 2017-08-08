@@ -57,7 +57,7 @@
   <!-- Day -->
   <string name="weather_30">Čiastočne zamračené</string>
   <!-- Night -->
-  <string name="weather_31">Vymazať</string>
+  <string name="weather_31">Jasno</string>
   <string name="weather_32">Slnečno</string>
   <!-- Night -->
   <string name="weather_33">Pekne</string>

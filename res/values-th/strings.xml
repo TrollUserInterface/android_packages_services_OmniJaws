@@ -17,9 +17,11 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="settings_title">การตั้งค่า</string>
   <string name="update_interval_title">ระยะเวลาอัพเดต</string>
   <string name="weather_tile_title">สภาพอากาศ</string>
   <string name="weather_icon_pack_title">สภาพชุดไอคอน</string>
+  <string name="service_disabled">ปิด​ใช้​งาน</string>
   <string name="service_error">ข้อผิดพลาด</string>
   <string name="omnijaws_service_unkown">ไม่มีข้อมูลสภาพอากาศ</string>
   <string name="omnijaws_service_error">ข้อผิดพลาดในการรับข้อมูลสภาพอากาศ</string>

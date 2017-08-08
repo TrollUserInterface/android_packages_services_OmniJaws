@@ -28,6 +28,7 @@
   <string name="weather_retrieve_location_dialog_title">موقعیت مکانی قابل بازیابی نیست!</string>
   <string name="weather_retrieve_location_dialog_message">موقعیت جغرافیایی شبکه غیر فعال است.\n\nیک مکان سفارشی را تنظیم کرده یا موقعیت شبکه را فعال کنید</string>
   <string name="weather_retrieve_location_dialog_enable_button">فعال کردن</string>
+  <string name="settings_title">تنظیمات</string>
   <string name="auto_update_title">به روز رسانی خودکار</string>
   <string name="unit_metric">متریک (u00b0C\)</string>
   <string name="unit_imperial">عالی (u00b0F\)</string>
@@ -38,10 +39,19 @@
   <string name="interval_4_hour">۴ ساعت</string>
   <string name="interval_6_hour">۶ ساعت</string>
   <string name="interval_12_hour">۱۲ ساعت</string>
+  <string name="weather_tile_title">آب و هوا</string>
+  <string name="weather_icon_pack_title">حالت بسته آیکون</string>
   <string name="weather_icon_pack_playstore">یافتن بسته های آیکون</string>
+  <string name="service_disabled">غیر فعال</string>
+  <string name="service_error">خطا</string>
   <string name="last_update_time">آخرین زمان به روز رسانی</string>
+  <string name="omnijaws_service_unkown">بدون اطلاعات آب و هوا</string>
+  <string name="omnijaws_service_error">خطا در بارگیری اطلاعات آب و هوا</string>
   <string name="omnijaws_service_init">منتظر اطلاعات آب و هوا...</string>
   <string name="omnijaws_service_progress">در حال به روز رسانی...</string>
+  <string name="omnijaws_service_disabled">سرویس غیرفعال شده است</string>
+  <string name="weather_widget">آب و هوا</string>
+  <string name="omnijaws_current_text">اکنون</string>
   <string name="show_background_title">سایه پس زمینه</string>
   <string name="weather_config_title">تنظیمات سرویس</string>
 </resources>

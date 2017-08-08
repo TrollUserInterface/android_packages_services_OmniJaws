@@ -57,7 +57,7 @@
   <!-- Day -->
   <string name="weather_30">Parc. nublado</string>
   <!-- Night -->
-  <string name="weather_31">Borrar</string>
+  <string name="weather_31">Despejado</string>
   <string name="weather_32">Soleado</string>
   <!-- Night -->
   <string name="weather_33">Despejado</string>
